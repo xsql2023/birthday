@@ -1,4 +1,4 @@
-## 生日快乐
+## 生日快乐 <b>访问网址：https://xsql2023.github.io/birthday/ </b>
 
 > <b>修改config.js的配置就可以为您心爱的人做一个超具创意的网页生日快乐呀,喜欢的话fork or star一下呗~</b>
 
