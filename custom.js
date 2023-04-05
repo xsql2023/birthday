@@ -1,4 +1,4 @@
-// 霸都丶傲天 2019.10.10
+// 炫闪清灵 2023.4.5
 $(function () {
     let dom = document.createElement("span");
     config.texts.forEach(function (item) {
