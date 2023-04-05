@@ -54,11 +54,7 @@ var config = {
 };
 ``
 ## 结尾
-喜欢的话关注一下[炫闪清灵]([https://github.com/xsql2023]呗~  \
-
-
-* 知乎:[霸都丶傲天](https://www.zhihu.com/people/AJLoveChina)
-* Github:[霸都丶傲天](https://github.com/ajlovechina)
+喜欢的话关注一下[炫闪清灵]([https://github.com/xsql2023]呗
 
 ## QA
 > 如何修改音乐？
